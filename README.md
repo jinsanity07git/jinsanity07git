@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![jinsanity's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsanity07git)
+
+Site navigation
+* [class notebook](https://jinsanity07git.github.io/UWMnotebook/)
+  
 <!--
 **jinsanity07git/jinsanity07git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
