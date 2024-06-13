@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![jinsanity's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsanity07git)
+![jinsanity's language](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsanity07git&layout=donut)
+
+
 
 Site navigation
 * [class notebook](https://jinsanity07git.github.io/UWMnotebook/)
