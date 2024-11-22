@@ -3,10 +3,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=jinsanity07git" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=jinsanity07git&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsanity07git&layout=compact&card_width=380" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsanity07git&hide=html,css&layout=compact&card_width=380&theme=dark" />
 </a>
 
 
